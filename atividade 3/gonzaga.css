@@ -1,0 +1,30 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: red 1px 1px;
+    padding: 15px;
+}
+
+.p1 {
+    border: orange solid 1px;
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+img {
+    border-radius: 5%;
+    box-shadow: darksalmon 10px 10px;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+footer {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    font-weight: bold;
+}

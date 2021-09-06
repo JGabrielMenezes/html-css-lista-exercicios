@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&display=swap');
+
+body {
+    background-color: cyan;
+}
+
+p {
+    color: brown;
+}
+
+h1 {
+    font-style: italic;
+    font-family:'Alegreya Sans SC', sans-serif;
+    text-align: center;
+}
+#p1 {
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: overline;
+}
+
+p::first-letter {
+    text-transform: uppercase;
+}
